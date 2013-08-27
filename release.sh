@@ -1,5 +1,5 @@
-PLAYERNAME=player
-IP=0.0.0.0
+PLAYERNAME=leap_of_faith
+IP=10.100.84.125:3000
 FILENAME=Main
 
 # Java: 
