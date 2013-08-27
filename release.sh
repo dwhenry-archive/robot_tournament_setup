@@ -1,11 +1,11 @@
 PLAYERNAME=leap_of_faith
-IP=10.100.84.125:3000
+IP=10.100.84.125
 FILENAME=Main
 
-# Java: 
+# Java:
 # javac PLAYERNAME/FILNENAME.java
 
-# Scala: 
+# Scala:
 # scalac -d PLAYERNAME/ PLAYERNAME/FILNENAME.scala
 
 # C#
